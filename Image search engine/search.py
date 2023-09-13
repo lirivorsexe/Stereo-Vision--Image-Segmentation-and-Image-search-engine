@@ -6,7 +6,7 @@
 # python search.py --dataset images --index index.cpickle
 
 # import the necessary packages
-from pyimagesearch.searcher import Searcher
+from pyimagesearch.searcher import Searcher #тут был я
 import numpy as np
 import argparse
 import cPickle
